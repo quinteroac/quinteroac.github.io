@@ -13,16 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Victor Quintero
 email: quinteroac@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+  Página personal
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://quinteroac.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: quinteroac
 github_username:  quinteroac
+
+#  Bienvenido, éste es mi espacio personal donde podrás conocer un poco acerca de mi. Mis gustos y aficiones
+#  tanto en lo personal como en lo profesional. También me gusta escribir acerca de ellos.
+  #Nací en Guadalajara, Jalisco en México y aquí llevo radicando toda mi vida, estudie Ingeniería en Comunicaciones y Electronica pero
+  #los vientos me llevaron a los caminos del desarrollo de software, analisis de negocio y dirección de proyectos.
+  #Me interesan mucho temas como el liderazgo tribal, metodologías agiles y el entorno de tecnologías que se han
+  #desarrollado a partir de las plataformas web y moviles que han ido surgiendo.
+  #También me gusta la musica, convivir con los amigos y de vez en cuando los videojuegos. Me gusta la historia de la humanidad,
+  #en especial la historia antigua, Romanos, Griegos, Egipcios y así.
+  #Tengo una hija y ella es mi vida.
+
 
 # Build settings
 markdown: kramdown
