@@ -1,0 +1,59 @@
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+}
+
+#sidebar ul p {
+  font-weight: bold;
+  color: $dark-grey;
+  font-size: 15px;
+  padding: 15px 15px 5px 10px;
+}
+
+#sidebar .categories-panel {
+  margin: 20px;
+}
+
+#sidebar ul li {
+}
+
+#sidebar ul li a {
+    padding-left: 20px;
+    font-size: 15px;
+    display: block;
+    color: $grey;
+}
+
+#sidebar ul li a:hover {
+    color: #7386D5;
+    background: #fff;
+}
+
+#sidebar ul li.active > a, a[aria-expanded="true"] {
+    color: #fff;
+    background: #6d7fcc;
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #6d7fcc;
+}
+
+#sidebar .tag-panel{
+  padding: 20px;
+  min-width: 210px;
+  max-width: 210px;
+  margin-left: 20px;
+}
+
+#sidebar .tag-panel a{
+  padding: 5px;
+  margin: 5px;
+}

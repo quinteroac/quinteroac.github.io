@@ -1,0 +1,21 @@
+<nav id="sidebar">
+  <div class="sidebar-header">
+     <form>
+       <div class="form-group">
+         <input type="text" class="form-control" id="searchField" aria-describedby="searchHelp" placeholder="Buscar...">
+       </div>
+     </form>
+  </div>
+  <div class="categories-panel border border-black bg-light rounded">
+  <ul class="list-unstyled components">
+      <p>Categorías</p>
+      {% for category in site.categories %}
+    <li class="nav-item"><a class="nav-link" href="{{ category | first }}/">{{ category | first }}{% unless forloop.last %}</a></li> {% endunless %}</a></li>{% endfor %}
+  </ul>
+</div>
+    <div class="tag-panel border border-black bg-light rounded">
+        <p>Tags</p>
+        {% for tag in site.tags %}
+        <a class="badge badge-info" href="{{ category | first }}">{{ tag | first }}{% unless forloop.last %}</a> {% endunless %}</a>{% endfor %}
+  </div>
+</nav>
