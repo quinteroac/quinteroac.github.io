@@ -1,6 +1,6 @@
 #sidebar {
-    min-width: 250px;
-    max-width: 250px;
+    min-width: 200px;
+    max-width: 200px;
     min-height: 100vh;
     transition: all 0.3s;
 }
@@ -48,9 +48,11 @@ ul ul a {
 
 #sidebar .tag-panel{
   padding: 20px;
-  min-width: 210px;
-  max-width: 210px;
+  min-width: 160px;
+  max-width: 160px;
   margin-left: 20px;
+  font-weight: bold;
+  color: $dark-grey;
 }
 
 #sidebar .tag-panel a{
