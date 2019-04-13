@@ -5,8 +5,9 @@ date:   2019-04-13 10:35:53 -0600
 categories: blog
 tags: blog, bienvenidos
 ---
+
 Bienvenidos, éste es mi espacio personal en el cual trataré de escribir 
-acerca de mis intereses. Mayormente orientados a el área de la informatica.
+acerca de mis intereses, mayormente orientados a el área de la informatica.
 
 Me gusta mucho investigar y experimentar con diferentes tipos de tecnologías,
 actualmente me encuentro muy interesado en el ambito de microservicios, sistemas de mensajería
