@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quinteroac.github.io/static/css/main.537b8de4.css",
+    "main.js": "/quinteroac.github.io/static/js/main.9d550a28.js",
+    "static/js/453.5bd71893.chunk.js": "/quinteroac.github.io/static/js/453.5bd71893.chunk.js",
+    "index.html": "/quinteroac.github.io/index.html",
+    "main.537b8de4.css.map": "/quinteroac.github.io/static/css/main.537b8de4.css.map",
+    "main.9d550a28.js.map": "/quinteroac.github.io/static/js/main.9d550a28.js.map",
+    "453.5bd71893.chunk.js.map": "/quinteroac.github.io/static/js/453.5bd71893.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537b8de4.css",
+    "static/js/main.9d550a28.js"
+  ]
+}
