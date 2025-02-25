@@ -25,7 +25,11 @@ jobs:
     - name: Install TypeScript
       run: npm install -g typescript --legacy-peer-deps
 
-    - name: Build
+    - name: Install Dependencies
       run: |
         npm install --legacy-peer-deps
-        npx webpack
+        npm install -D webpack-cli
+        npm audit fix
+
+    - name: Build
+      run: npx webpack
