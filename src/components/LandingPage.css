@@ -1,0 +1,23 @@
+.landing-page {
+  text-align: center;
+  padding: 50px;
+  background-color: #f0f0f0;
+}
+
+.landing-header {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.cta-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+}
