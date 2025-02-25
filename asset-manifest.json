@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/quinteroac.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/quinteroac.github.io/static/js/main.520a681b.js",
+    "main.css": "/quinteroac.github.io/static/css/main.537b8de4.css",
+    "main.js": "/quinteroac.github.io/static/js/main.9d550a28.js",
     "static/js/453.5bd71893.chunk.js": "/quinteroac.github.io/static/js/453.5bd71893.chunk.js",
-    "static/media/logo.svg": "/quinteroac.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/quinteroac.github.io/index.html",
-    "main.f855e6bc.css.map": "/quinteroac.github.io/static/css/main.f855e6bc.css.map",
-    "main.520a681b.js.map": "/quinteroac.github.io/static/js/main.520a681b.js.map",
+    "main.537b8de4.css.map": "/quinteroac.github.io/static/css/main.537b8de4.css.map",
+    "main.9d550a28.js.map": "/quinteroac.github.io/static/js/main.9d550a28.js.map",
     "453.5bd71893.chunk.js.map": "/quinteroac.github.io/static/js/453.5bd71893.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.520a681b.js"
+    "static/css/main.537b8de4.css",
+    "static/js/main.9d550a28.js"
   ]
 }
